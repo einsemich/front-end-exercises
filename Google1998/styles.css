@@ -1,0 +1,56 @@
+.img {
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tbwht {
+    border: 0;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.td1 {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.td2 {
+    width: 31%;
+    background-color: #7EE5DA;
+    text-align: center;
+}
+
+.td3 {
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: small;
+    width: 37%;   
+    
+}
+
+.td4 {
+    background-color: #62B3AA ;
+    text-align: center;
+    
+    font-size: small;
+    width: 37%;    
+}
+
+.p {
+    text-align: center;
+    font-size: small;
+}
+
+
+.container {
+    width: 350px;  
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;       
+}
+
+.container div {
+    align-items: center;
+}
