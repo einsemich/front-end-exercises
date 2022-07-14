@@ -1,0 +1,52 @@
+.body{
+    background-color: darkgray;
+}
+.ana-sayfa{
+    color: aliceblue;
+    font-size: xx-large;
+    position: absolute;
+    left: 40%;
+    right: 50;
+       
+}
+.urunler{
+    color: aliceblue;
+    font-size: xx-large;
+    position: absolute;
+    left: 40%;
+    right: 50;
+
+}
+.link{position: relative;
+top:70px;
+left:38%;
+color: brown;
+
+}
+
+.aciklama{
+    position: absolute;
+    left:25%;
+    top:120px;
+    right:25%;
+}
+.tablo{
+    position :absolute;
+    left: 25%;
+    right: 25%;
+    top:250px;
+}
+.tablo2{
+    position :absolute;
+    left: 25%;
+    right: 25%;
+    top:280px;
+}
+.paragraf{
+    color: black;
+    position: relative;
+    left:25%;
+    top:120px;
+    right:25%;
+
+}
